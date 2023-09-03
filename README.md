@@ -18,7 +18,7 @@ This ray tracer project was based on the "Ray Tracing in One Weekend" book serie
 
 - Basic ray tracing features (spheres, rays, materials).
 - Lambertian, metal, and dielectric (Glass) material rendering.
-- Multi-threaded rendering using MPI (~36% maximum speed up!)
+- Multi-threaded rendering using MPI (~36% maximum render time decrease!)
 - Abstract classes for shapes. material, and hittable objects.
 
 ## Results
